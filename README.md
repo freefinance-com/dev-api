@@ -2,4 +2,4 @@ FreeFinance is a comprehensive bookkeeping cloud software and offers an API for 
 
 Find out more about FreeFinance: www.freefinance.com/at
 
-Our API documentation may be found on GitHub.
+Our API documentation may be found on GitHub https://freefinance-com.github.io
